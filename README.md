@@ -26,4 +26,14 @@ The Bid Auction App is an innovative online platform facilitating buying and sel
   - **MVC Architecture** – Ensures a clean and organized code structure.
   - **Git & GitHub** – Version control and collaborative development.
   - **Maven** – Dependency management and build automation.
-  
+!![image](https://github.com/user-attachments/assets/61cdf018-00e6-4e7c-8862-3f87ec4aa82b)
+# Project Setup and Execution
+- **Backend** (AuctionBazaar - Web Service Development)
+  - Open AuctionBazaar-Online-Auction-Platform-WebService-Development_oct_2024-AvinashPandey in Eclipse IDE for Java Developers.
+  - Run pom.xml to build and install dependencies.
+- **Frontend** (AuctionBazaar - React Application)
+  - Open auction-bazaar-frontend-master in Visual Studio Code.
+  - Run the following commands in the terminal:
+    -   npm install
+    -   npm start
+
