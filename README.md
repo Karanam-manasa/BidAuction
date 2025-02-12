@@ -26,7 +26,7 @@ The Bid Auction is an innovative online platform facilitating buying and selling
   - **MVC Architecture** – Ensures a clean and organized code structure.
   - **Git & GitHub** – Version control and collaborative development.
   - **Maven** – Dependency management and build automation.
-  - 
+    
 ![image](https://github.com/user-attachments/assets/61cdf018-00e6-4e7c-8862-3f87ec4aa82b)
 # 🚀 Project Setup and Execution
 - **Backend** (AuctionBazaar - Web Service Development)
