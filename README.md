@@ -18,5 +18,17 @@ The Bid Auction App is an innovative online platform facilitating buying and sel
     - **Users Table:** Stores user credentials.
     - **Auctions Table:** Manages auction details.
    - **Bids Table:** Tracks user bids.
-  
+# 🛠️ Technologies Used
+  # Frontend:
+  - **React.js** – Provides a responsive and interactive user interface.
+  # Backend & API Testing:**
+  - **Java** – Core backend programming language.
+  - **Eclipse IDE** – Used for backend development and coding in Java.
+  - **Postman** – Used for testing API endpoints and backend functionality.
+  - **MVC Architecture** – Ensures clean and organized code structure.
+  # Database:
+  - **MySQL** – Stores user credentials, auction details, and bid history.
+  # Version Control & Build Management:
+  - **Git & GitHub** – For collaborative development and version control.
+  - **Maven** – Manages dependencies and builds efficiently.
   
